@@ -1,4 +1,6 @@
 # sports-hall-booking
+# Phase introduction 
+https://docs.google.com/document/d/16cmC7b-fo6uNOjOWOgTXZB4cEfh5l4zv/edit?usp=drivesdk&ouid=107448676623226697036&rtpof=true&sd=true
 # phase:1
 https://drive.google.com/file/d/1swHS9emLgXC4stKbRynsg1Yu7iQ0kz4U/view?usp=drivesdk
 # phase:2
